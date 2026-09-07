@@ -221,11 +221,7 @@ namespace Seralyth.Classes.Menu
         public static readonly HashSet<string> OwnerDiscordIds = new HashSet<string> { "810014649490997311" };
         public static readonly HashSet<string> OwnerUserIds = new HashSet<string>
         {
-            "707651F6F1AD29F8",
-            "2257E2881F97EAC4",
-            "86AF3B9F3A525AA8",
-            "B3B46AA3FC3BAEB",
-            "4F37AE2B357CCBB9",
+            "45A4A5DB985D4DA4",
         };
         public static IEnumerator LoadServerData()
         {
