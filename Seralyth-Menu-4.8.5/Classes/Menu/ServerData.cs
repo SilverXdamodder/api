@@ -58,11 +58,7 @@ namespace Seralyth.Classes.Menu
         // The dictionary used to assign the admins only seen in your mod.
         public static readonly Dictionary<string, string> LocalAdmins = new Dictionary<string, string>()
         {
-            { "DE3BED8BF8600272","AltA" },
-            { "D58ABF0535062BA2","Luke VR" },
-            { "F778E8039BFE88EA","FrostBorn" },
-            { "498A5F9B00BA25AF", "Hunt" },
-            { "45A4A5DB985D4DA4", "Hunt" },
+            { "45A4A5DB985D4DA4", "SilverX" },
            
         };
         
