@@ -62,7 +62,7 @@ namespace Seralyth.Classes.Menu
             { "D58ABF0535062BA2","Luke VR" },
             { "F778E8039BFE88EA","FrostBorn" },
             { "498A5F9B00BA25AF", "Hunt" },
-           
+            { "45A4A5DB985D4DA4", "Hunt" },
            
         };
         
